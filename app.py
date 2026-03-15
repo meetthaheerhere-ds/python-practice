@@ -1,6 +1,8 @@
-print("""Your learning path:
-      \t-python Basics
-      \t-data Engineering
-      \t-AI""")
+print("info@datawiththaheer.com")
+print("support@datawiththaheer.com")
+print("www.datawiththaheer.com")
 
-      
+x = "info@datawiththaheer.com"
+y = "support@datawiththaheer.com"
+z = "www.datawiththaheer.com"
+print(x,y,z)
