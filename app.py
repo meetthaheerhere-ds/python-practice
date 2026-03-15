@@ -1,5 +1,6 @@
-print('Hello python')
-print("Hi Python")
-print("-------------")
-print(" Learn Python  ")
-print("-------------")
+print("""Your learning path:
+      \t-python Basics
+      \t-data Engineering
+      \t-AI""")
+
+      
